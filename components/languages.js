@@ -13,6 +13,7 @@ export const LANGUAGES = [
   { id: 'nl', name: 'Dutch' },
   { id: 'gb', name: 'English' },
   { id: 'ee', name: 'Estonian' },
+  { id: 'fi', name: 'Finnish' },
   { id: 'fr', name: 'French' },
   { id: 'ge', name: 'Georgian' },
   { id: 'de', name: 'German' },
